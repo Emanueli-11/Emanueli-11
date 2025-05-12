@@ -1,4 +1,4 @@
-## Hi there 👋
+Olaa seja bem-vido(a) ao meu perfil, me chamo Emanueli e sou aluna do 1 ano do ensino medio 
 
 <!--
 **Emanueli-11/Emanueli-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
